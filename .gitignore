@@ -1,0 +1,17 @@
+# Agent instructions - keep local only
+AGENTS.md
+CLAUDE.md
+copilot-instructions.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.log
