@@ -1,4 +1,6 @@
 # 🚀 LLM_Pilots
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-GPL--3.0-green.svg)
 LM_Studio_Pilot & Ollama_Pilot & envoyer_message
 
 Applications de pilotage complet pour LLMs locaux via **LM Studio** et **Ollama**.  
